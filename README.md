@@ -1,9 +1,9 @@
 # Credit-Defaulter-Classification
 
-Dataset Information
+## Dataset Information <br>
 This dataset contains information on default payments, demographic factors, credit data, history of payment, and bill statements of credit card clients in Taiwan from April 2005 to September 2005.
 
-Content
+## Content<br>
 There are 25 variables:
 
 ID: ID of each client <br>
@@ -32,6 +32,6 @@ PAY_AMT5: Amount of previous payment in May, 2005 (NT dollar)<br>
 PAY_AMT6: Amount of previous payment in April, 2005 (NT dollar)<br>
 default.payment.next.month: Default payment (1=yes, 0=no)<br>
 
-Acknowledgements: <br>
+## Acknowledgements: <br>
 The original dataset can be found here at the UCI Machine Learning Repository.
 
